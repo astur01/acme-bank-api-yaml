@@ -1,2 +1,2 @@
 # acme-bank-api-yaml
-This repository contains acme-bank API Product and API yaml files
+This repository contains development branch of acme-bank API Product and API yaml files
